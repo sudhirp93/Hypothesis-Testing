@@ -1,0 +1,486 @@
+"Sno";"Division_SeatNo";"Member_ID";"Session";"State";"Constituency";"Total_Sittings";"Sittings_Attended";"Zone";"Percent_Attendance";"Exp_status";"If_Numeric_Percent_Attendance"
+1;2;"MP1";13;"Maharashtra                                                 ";"Solapur";32;0;"Central";"0.0%";"Unexp";0
+2;3;"MP2";13;"Uttar Pradesh                                               ";"Rae Barelii";32;18;"North";"56.3%";"Exp";1
+3;15;"MP3";13;"Tamil Nadu                                                  ";"Chennai Central";32;19;"South";"59.4%";"Exp";1
+4;16;"MP4";13;"Tamil Nadu                                                  ";"Nilgiris";32;23;"South";"71.9%";"Unexp";1
+5;20;"MP5";13;"Tamil Nadu                                                  ";"Madurai";32;0;"South";"0.0%";"Exp";0
+6;29;"MP6";13;"Uttarakhand                                                 ";"Hardwar";32;0;"North";"0.0%";"Unexp";0
+7;30;"MP7";13;"Rajasthan                                                   ";"Jodhpur";32;0;"West";"0.0%";"Exp";0
+8;46;"MP8";13;"Tamil Nadu                                                  ";"Thanjavur";32;0;"South";"0.0%";"Exp";0
+9;49;"MP9";13;"Tamil Nadu                                                  ";"Perambalur";32;0;"South";"0.0%";"Exp";0
+10;50;"MP10";13;"Tamil Nadu                                                  ";"Arakkonam";32;0;"South";"0.0%";"Exp";0
+11;51;"MP11";13;"Tamil Nadu                                                  ";"Namakkal";32;0;"South";"0.0%";"Exp";0
+12;53;"MP12";13;"Maharashtra                                                 ";"Sangli";32;0;"Central";"0.0%";"Exp";0
+13;55;"MP13";13;"Kerala                                                      ";"Thiruvananthapuram";32;0;"South";"0.0%";"Exp";0
+14;61;"MP14";13;"Uttar Pradesh                                               ";"Amethi";32;21;"North";"65.6%";"Unexp";1
+15;65;"MP15";13;"Assam                                                       ";"Lakhimpur";32;0;"NE";"0.0%";"Exp";0
+16;67;"MP16";13;"Arunachal Pradesh                                           ";"Arunachal East";32;0;"NE";"0.0%";"Exp";0
+17;68;"MP17";13;"West Bengal                                                 ";"Raiganj";32;0;"East";"0.0%";"Unexp";0
+18;71;"MP18";13;"Rajasthan                                                   ";"Jaipur Rural";32;0;"West";"0.0%";"Unexp";0
+19;72;"MP19";13;"Delhi                                                       ";"East Delhi";32;28;"North";"87.5%";"Unexp";1
+20;73;"MP20";13;"Tamil Nadu                                                  ";"Theni";32;22;"South";"68.8%";"Exp";1
+21;74;"MP21";13;"Madhya Pradesh                                              ";"Khandwa";32;0;"Central";"0.0%";"Unexp";0
+22;75;"MP22";13;"Haryana                                                     ";"Kurukshetra";32;25;"North";"78.1%";"Exp";1
+23;76;"MP23";13;"Andhra Pradesh                                              ";"Nizamabad";32;23;"South";"71.9%";"Exp";1
+24;77;"MP24";13;"Uttarakhand                                                 ";"Garhwal";32;24;"North";"75.0%";"Exp";1
+25;78;"MP25";13;"Meghalaya                                                   ";"Shillong";32;0;"NE";"0.0%";"Exp";0
+26;79;"MP26";13;"Jammu and Kashmir                                           ";"Jammu";32;31;"North";"96.9%";"Exp";1
+27;80;"MP27";13;"Jammu and Kashmir                                           ";"Udhampur";32;21;"North";"65.6%";"Exp";1
+28;81;"MP28";13;"Uttar Pradesh                                               ";"Moradabad";32;25;"North";"78.1%";"Exp";1
+29;82;"MP29";13;"Lakshadweep                                                 ";"Lakshadweep";32;28;"South";"87.5%";"Exp";1
+30;83;"MP30";13;"Haryana                                                     ";"Sirsa";32;24;"North";"75.0%";"Exp";1
+31;84;"MP31";13;"Uttarakhand                                                 ";"Nainital-Udhamsingh Nagar";32;16;"North";"50.0%";"Unexp";1
+32;85;"MP32";13;"Punjab                                                      ";"Sangrur";32;0;"North";"0.0%";"Unexp";0
+33;86;"MP33";13;"Karnataka                                                   ";"Udupi Chikmagalur";32;11;"South";"34.4%";"Unexp";0
+34;87;"MP34";13;"West Bengal                                                 ";"Jangipur";32;32;"East";"100.0%";"Unexp";0
+35;88;"MP35";13;"Andhra Pradesh                                              ";"Anakapalli";32;19;"South";"59.4%";"Exp";1
+36;89;"MP36";13;"Punjab                                                      ";"Anandpur Sahib";32;31;"North";"96.9%";"Unexp";1
+37;90;"MP37";13;"Delhi                                                       ";"West Delhi";32;32;"North";"100.0%";"Unexp";0
+38;91;"MP38";13;"Delhi                                                       ";"South Delhi";32;32;"North";"100.0%";"Exp";0
+39;92;"MP39";13;"Assam                                                       ";"Barpeta";32;32;"NE";"100.0%";"Unexp";0
+40;93;"MP40";13;"Bihar                                                       ";"Kishanganj";32;29;"East";"90.6%";"Exp";1
+41;94;"MP41";13;"Arunachal Pradesh                                           ";"Arunachal West";32;18;"NE";"56.3%";"Unexp";1
+42;95;"MP42";13;"Rajasthan                                                   ";"Sikar";32;23;"West";"71.9%";"Exp";1
+43;97;"MP43";13;"Tamil Nadu                                                  ";"Kancheepuram";32;28;"South";"87.5%";"Unexp";1
+44;98;"MP44";13;"Rajasthan                                                   ";"Jhunjhunu";32;27;"West";"84.4%";"Exp";1
+45;99;"MP45";13;"Tamil Nadu                                                  ";"Sriperumbudur";32;28;"South";"87.5%";"Exp";1
+46;100;"MP46";13;"Maharashtra                                                 ";"Nagpur";32;27;"Central";"84.4%";"Exp";1
+47;101;"MP47";13;"Maharashtra                                                 ";"Nandurbar";32;0;"Central";"0.0%";"Unexp";0
+48;102;"MP48";13;"Maharashtra                                                 ";"Pune";32;20;"Central";"62.5%";"Unexp";1
+49;103;"MP49";13;"Assam                                                       ";"Jorhat";32;0;"NE";"0.0%";"Exp";0
+50;104;"MP50";13;"Andhra Pradesh                                              ";"Rajampet";32;30;"South";"93.8%";"Exp";1
+51;105;"MP51";13;"Maharashtra                                                 ";"Mumbai-North-West";32;0;"Central";"0.0%";"Exp";0
+52;106;"MP52";13;"Andhra Pradesh                                              ";"Tirupati";32;28;"South";"87.5%";"Exp";1
+53;107;"MP53";13;"Assam                                                       ";"Autonomous District";32;31;"NE";"96.9%";"Unexp";1
+54;108;"MP54";13;"Andhra Pradesh                                              ";"Eluru";32;29;"South";"90.6%";"Exp";1
+55;109;"MP55";13;"Madhya Pradesh                                              ";"Ratlam";32;0;"Central";"0.0%";"Exp";0
+56;110;"MP56";13;"Delhi                                                       ";"North East Delhi";32;31;"North";"96.9%";"Exp";1
+57;112;"MP57";13;"Maharashtra                                                 ";"Wardha";32;28;"Central";"87.5%";"Exp";1
+58;113;"MP58";13;"Andhra Pradesh                                              ";"Guntur";32;13;"South";"40.6%";"Exp";0
+59;114;"MP59";13;"Uttar Pradesh                                               ";"Salempur";32;23;"North";"71.9%";"Exp";1
+60;115;"MP60";13;"Andhra Pradesh                                              ";"Nagarkurnool";32;30;"South";"93.8%";"Exp";1
+61;116;"MP61";13;"Andhra Pradesh                                              ";"Anantapur";32;29;"South";"90.6%";"Exp";1
+62;117;"MP62";13;"Gujarat                                                     ";"Surendranagar";32;28;"West";"87.5%";"Exp";1
+63;118;"MP63";13;"Haryana                                                     ";"Faridabad";32;17;"North";"53.1%";"Unexp";1
+64;119;"MP64";13;"Kerala                                                      ";"Thrissur";32;30;"South";"93.8%";"Exp";1
+65;120;"MP65";13;"Rajasthan                                                   ";"Chittorgarh";32;31;"West";"96.9%";"Exp";1
+66;121;"MP66";13;"Haryana                                                     ";"Gurgaon";32;27;"North";"84.4%";"Exp";1
+67;122;"MP67";13;"Maharashtra                                                 ";"Ramtek";32;23;"Central";"71.9%";"Exp";1
+68;123;"MP68";13;"Maharashtra                                                 ";"Mumbai-North";32;23;"Central";"71.9%";"Unexp";1
+69;124;"MP69";13;"Assam                                                       ";"Kaliabor";32;24;"NE";"75.0%";"Exp";1
+70;125;"MP70";13;"Jharkhand                                                   ";"Ranchi";32;0;"East";"0.0%";"Unexp";0
+71;126;"MP71";13;"Goa                                                         ";"South Goa";32;32;"Central";"100.0%";"Exp";0
+72;127;"MP72";13;"Andhra Pradesh                                              ";"Ongole";32;16;"South";"50.0%";"Exp";1
+73;128;"MP73";13;"Tamil Nadu                                                  ";"Dindigul";32;29;"South";"90.6%";"Unexp";1
+74;129;"MP74";13;"Haryana                                                     ";"Karnal";32;18;"North";"56.3%";"Exp";1
+75;130;"MP75";13;"Uttar Pradesh                                               ";"Sultanpur";32;29;"North";"90.6%";"Exp";1
+76;131;"MP76";13;"Uttar Pradesh                                               ";"Mathura";32;21;"North";"65.6%";"Unexp";1
+77;132;"MP77";13;"Maharashtra                                                 ";"Nanded";32;27;"Central";"84.4%";"Exp";1
+78;133;"MP78";13;"Haryana                                                     ";"Rohtak";32;28;"North";"87.5%";"Exp";1
+79;134;"MP79";13;"Orissa                                                      ";"Kalahandi";32;32;"East";"100.0%";"Unexp";0
+80;135;"MP80";13;"Rajasthan                                                   ";"Banswara";32;25;"West";"78.1%";"Exp";1
+81;136;"MP81";13;"Meghalaya                                                   ";"Tura";32;0;"NE";"0.0%";"Exp";0
+82;137;"MP82";13;"Uttar Pradesh                                               ";"Pratapgarh";32;29;"North";"90.6%";"Unexp";1
+83;138;"MP83";13;"Maharashtra                                                 ";"Mumbai-North-Central";32;17;"Central";"53.1%";"Exp";1
+84;139;"MP84";13;"Punjab                                                      ";"Hoshiarpur";32;25;"North";"78.1%";"Unexp";1
+85;140;"MP85";13;"Punjab                                                      ";"Fategarh Sabhib";32;32;"North";"100.0%";"Unexp";0
+86;141;"MP86";13;"Madhya Pradesh                                              ";"Dhar";32;25;"Central";"78.1%";"Unexp";1
+87;142;"MP87";13;"Uttar Pradesh                                               ";"Bijnor";32;32;"North";"100.0%";"Exp";0
+88;143;"MP88";13;"Andhra Pradesh                                              ";"Secunderabad";32;25;"South";"78.1%";"Exp";1
+89;144;"MP89";13;"Andhra Pradesh                                              ";"Nalgonda";32;24;"South";"75.0%";"Exp";1
+90;145;"MP90";13;"Andhra Pradesh                                              ";"Amalapuram";32;26;"South";"81.3%";"Unexp";1
+91;146;"MP91";13;"Andhra Pradesh                                              ";"Rajahmundry";32;32;"South";"100.0%";"Unexp";0
+92;147;"MP92";13;"Andhra Pradesh                                              ";"Nandyal";32;7;"South";"21.9%";"Exp";0
+93;148;"MP93";13;"Assam                                                       ";"Karimganj";32;29;"NE";"90.6%";"Exp";1
+94;149;"MP94";13;"Gujarat                                                     ";"Jamnagar";32;1;"West";"3.1%";"Exp";0
+95;150;"MP95";13;"Andhra Pradesh                                              ";"Vijayawada";32;25;"South";"78.1%";"Exp";1
+96;151;"MP96";13;"Andhra Pradesh                                              ";"Vizianagaram";32;27;"South";"84.4%";"Exp";1
+97;152;"MP97";13;"Chhattisgarh                                                ";"Nominated Anglo-Indian";32;30;"Central";"93.8%";"Exp";1
+98;153;"MP98";13;"Andhra Pradesh                                              ";"Narsapuram";32;24;"South";"75.0%";"Exp";1
+99;154;"MP99";13;"Gujarat                                                     ";"Valsad";32;29;"West";"90.6%";"Exp";1
+100;155;"MP100";13;"Maharashtra                                                 ";"Mumbai-South-Central";32;31;"Central";"96.9%";"Exp";1
+101;156;"MP101";13;"Manipur                                                     ";"Inner Manipur";32;32;"NE";"100.0%";"Unexp";0
+102;157;"MP102";13;"Tamil Nadu                                                  ";"Arani";32;30;"South";"93.8%";"Exp";1
+103;158;"MP103";13;"Uttar Pradesh                                               ";"Faizabad";32;28;"North";"87.5%";"Exp";1
+104;160;"MP104";13;"Haryana                                                     ";"Bhiwani-Mahendragarh";32;27;"North";"84.4%";"Unexp";1
+105;161;"MP105";13;"Gujarat                                                     ";"Dahod";32;32;"West";"100.0%";"Exp";0
+106;162;"MP106";13;"Madhya Pradesh                                              ";"Shahdol";32;20;"Central";"62.5%";"Exp";1
+107;163;"MP107";13;"West Bengal                                                 ";"Maldaha Uttar";32;5;"East";"15.6%";"Unexp";0
+108;164;"MP108";13;"Uttar Pradesh                                               ";"Hathras";32;29;"North";"90.6%";"Exp";1
+109;165;"MP109";13;"Uttar Pradesh                                               ";"Unnao";32;29;"North";"90.6%";"Exp";1
+110;166;"MP110";13;"Madhya Pradesh                                              ";"Mandsour";32;21;"Central";"65.6%";"Exp";1
+111;167;"MP111";13;"Rajasthan                                                   ";"Nagaur";32;31;"West";"96.9%";"Exp";1
+112;168;"MP112";13;"Uttar Pradesh                                               ";"Amroha";32;11;"North";"34.4%";"Exp";0
+113;169;"MP113";13;"Tamil Nadu                                                  ";"Virudhunagar";32;24;"South";"75.0%";"Exp";1
+114;170;"MP114";13;"Andhra Pradesh                                              ";"Karimnagar";32;31;"South";"96.9%";"Exp";1
+115;171;"MP115";13;"Madhya Pradesh                                              ";"Dewas";32;29;"Central";"90.6%";"Exp";1
+116;172;"MP116";13;"West Bengal                                                 ";"Murshidabad";32;21;"East";"65.6%";"Exp";1
+117;173;"MP117";13;"Tamil Nadu                                                  ";"Cuddalore";32;16;"South";"50.0%";"Exp";1
+118;174;"MP118";13;"Madhya Pradesh                                              ";"Mandla";32;26;"Central";"81.3%";"Exp";1
+119;175;"MP119";13;"Gujarat                                                     ";"Rajkot";32;21;"West";"65.6%";"Unexp";1
+120;177;"MP120";13;"Andhra Pradesh                                              ";"Peddapalle";32;24;"South";"75.0%";"Unexp";1
+121;178;"MP121";13;"Andhra Pradesh                                              ";"Zahirabad";32;24;"South";"75.0%";"Exp";1
+122;180;"MP122";13;"Gujarat                                                     ";"Patan";32;19;"West";"59.4%";"Exp";1
+123;181;"MP123";13;"Karnataka                                                   ";"Mysore";32;10;"South";"31.3%";"Exp";0
+124;182;"MP124";13;"Karnataka                                                   ";"Chamrajanagar";32;15;"South";"46.9%";"Unexp";0
+125;183;"MP125";13;"Kerala                                                      ";"Kannur";32;18;"South";"56.3%";"Exp";1
+126;184;"MP126";13;"Jharkhand                                                   ";"Jamshedpur";32;28;"East";"87.5%";"Exp";1
+127;185;"MP127";13;"Kerala                                                      ";"Kozhikode";32;20;"South";"62.5%";"Exp";1
+128;186;"MP128";13;"Kerala                                                      ";"Chalakudy";32;32;"South";"100.0%";"Exp";0
+129;187;"MP129";13;"Uttar Pradesh                                               ";"Ghosi";32;29;"North";"90.6%";"Exp";1
+130;188;"MP130";13;"Bihar                                                       ";"Saran";32;19;"East";"59.4%";"Unexp";1
+131;189;"MP131";13;"Jharkhand                                                   ";"Dumka";32;4;"East";"12.5%";"Exp";0
+132;190;"MP132";13;"Tamil Nadu                                                  ";"Chennai North";32;30;"South";"93.8%";"Exp";1
+133;191;"MP133";13;"West Bengal                                                 ";"Kolkata Uttar";32;22;"East";"68.8%";"Unexp";1
+134;192;"MP134";13;"Maharashtra                                                 ";"Baramati";32;30;"Central";"93.8%";"Exp";1
+135;193;"MP135";13;"Maharashtra                                                 ";"Satara";32;18;"Central";"56.3%";"Exp";1
+136;194;"MP136";13;"Maharashtra                                                 ";"Nashik";32;23;"Central";"71.9%";"Exp";1
+137;195;"MP137";13;"Tamil Nadu                                                  ";"Tiruvannamalai";32;22;"South";"68.8%";"Exp";1
+138;196;"MP138";13;"West Bengal                                                 ";"Sreerampur";32;24;"East";"75.0%";"Exp";1
+139;197;"MP139";13;"Tamil Nadu                                                  ";"Nagapattinam";32;23;"South";"71.9%";"Exp";1
+140;198;"MP140";13;"Tamil Nadu                                                  ";"Krisnagiri";32;22;"South";"68.8%";"Exp";1
+141;199;"MP141";13;"Tamil Nadu                                                  ";"Kallakurichi";32;19;"South";"59.4%";"Exp";1
+142;200;"MP142";13;"Maharashtra                                                 ";"Thane";32;30;"Central";"93.8%";"Exp";1
+143;201;"MP143";13;"Andhra Pradesh                                              ";"Hyderabad";32;25;"South";"78.1%";"Exp";1
+144;202;"MP144";13;"Assam                                                       ";"Kokrajhar";32;24;"NE";"75.0%";"Unexp";1
+145;203;"MP145";13;"Bihar                                                       ";"Vaishali";32;26;"East";"81.3%";"Exp";1
+146;204;"MP146";13;"Jammu and Kashmir                                           ";"Ladakh";32;31;"North";"96.9%";"Unexp";1
+147;205;"MP147";13;"Maharashtra                                                 ";"Kolhapur";32;22;"Central";"68.8%";"Exp";1
+148;206;"MP148";13;"Tamil Nadu                                                  ";"Dharmapuri";32;29;"South";"90.6%";"Exp";1
+149;207;"MP149";13;"Tamil Nadu                                                  ";"Vellore";32;17;"South";"53.1%";"Exp";1
+150;208;"MP150";13;"West Bengal                                                 ";"Diamond Harbour";32;18;"East";"56.3%";"Exp";1
+151;209;"MP151";13;"West Bengal                                                 ";"Kanthi";32;13;"East";"40.6%";"Exp";0
+152;210;"MP152";13;"Assam                                                       ";"Dhubri";32;13;"NE";"40.6%";"Unexp";0
+153;211;"MP153";13;"Jharkhand                                                   ";"Kodarma";32;10;"East";"31.3%";"Exp";0
+154;212;"MP154";13;"Jammu and Kashmir                                           ";"Anantnag";32;31;"North";"96.9%";"Exp";1
+155;213;"MP155";13;"Uttar Pradesh                                               ";"Domariyaganj";32;28;"North";"87.5%";"Unexp";1
+156;214;"MP156";13;"Karnataka                                                   ";"Bidar";32;14;"South";"43.8%";"Unexp";0
+157;215;"MP157";13;"Karnataka                                                   ";"Bangalore Rural";32;2;"South";"6.3%";"Unexp";1
+158;216;"MP158";13;"West Bengal                                                 ";"Uluberia";32;19;"East";"59.4%";"Unexp";1
+159;217;"MP159";13;"West Bengal                                                 ";"Barasat";32;25;"East";"78.1%";"Exp";1
+160;218;"MP160";13;"Andhra Pradesh                                              ";"Bhongir";32;20;"South";"62.5%";"Exp";1
+161;219;"MP161";13;"Andhra Pradesh                                              ";"Warangal";32;31;"South";"96.9%";"Exp";1
+162;220;"MP162";13;"Rajasthan                                                   ";"Alwar";32;27;"West";"84.4%";"Exp";1
+163;221;"MP163";13;"Uttar Pradesh                                               ";"Barabanki";32;32;"North";"100.0%";"Exp";0
+164;222;"MP164";13;"Uttar Pradesh                                               ";"Bahraich";32;30;"North";"93.8%";"Unexp";1
+165;223;"MP165";13;"Uttar Pradesh                                               ";"Shrawasti";32;20;"North";"62.5%";"Exp";1
+166;224;"MP166";13;"Uttar Pradesh                                               ";"Maharajganj";32;22;"North";"68.8%";"Exp";1
+167;225;"MP167";13;"Uttar Pradesh                                               ";"Bareilly";32;7;"North";"21.9%";"Exp";0
+168;226;"MP168";13;"Uttarakhand                                                 ";"Almora";32;30;"North";"93.8%";"Exp";1
+169;227;"MP169";13;"Tamil Nadu                                                  ";"Tirunelveli";32;30;"South";"93.8%";"Exp";1
+170;228;"MP170";13;"Jammu and Kashmir                                           ";"Baramulla";32;30;"North";"93.8%";"Exp";1
+171;229;"MP171";13;"Rajasthan                                                   ";"Jaipur";32;31;"West";"96.9%";"Unexp";1
+172;230;"MP172";13;"Rajasthan                                                   ";"Kota";32;27;"West";"84.4%";"Unexp";1
+173;231;"MP173";13;"Kerala                                                      ";"Ponnani";32;26;"South";"81.3%";"Exp";1
+174;232;"MP174";13;"Rajasthan                                                   ";"Rajsamand";32;30;"West";"93.8%";"Unexp";1
+175;233;"MP175";13;"Rajasthan                                                   ";"Udaipur";32;32;"West";"100.0%";"Exp";0
+176;234;"MP176";13;"Rajasthan                                                   ";"Barmer";32;29;"West";"90.6%";"Unexp";1
+177;235;"MP177";13;"Rajasthan                                                   ";"Pali";32;28;"West";"87.5%";"Exp";1
+178;236;"MP178";13;"Rajasthan                                                   ";"Karauli-Dholpur";32;23;"West";"71.9%";"Exp";1
+179;237;"MP179";13;"Rajasthan                                                   ";"Bharatpur";32;32;"West";"100.0%";"Exp";0
+180;238;"MP180";13;"Uttar Pradesh                                               ";"Akbarpur";32;27;"North";"84.4%";"Exp";1
+181;239;"MP181";13;"Rajasthan                                                   ";"Ganganagar";32;32;"West";"100.0%";"Exp";0
+182;240;"MP182";13;"Uttar Pradesh                                               ";"Kheri";32;24;"North";"75.0%";"Exp";1
+183;242;"MP183";13;"Kerala                                                      ";"Nominated Anglo-Indian";32;30;"South";"93.8%";"Unexp";1
+184;243;"MP184";13;"Punjab                                                      ";"Jalandhar";32;30;"North";"93.8%";"Exp";1
+185;244;"MP185";13;"Punjab                                                      ";"Gurdaspur";32;25;"North";"78.1%";"Unexp";1
+186;245;"MP186";13;"Kerala                                                      ";"Idukki";32;22;"South";"68.8%";"Exp";1
+187;246;"MP187";13;"Kerala                                                      ";"Wayanad";32;26;"South";"81.3%";"Unexp";1
+188;247;"MP188";13;"Kerala                                                      ";"Pathanamthitta";32;23;"South";"71.9%";"Unexp";1
+189;248;"MP189";13;"Kerala                                                      ";"Kollam";32;30;"South";"93.8%";"Exp";1
+190;249;"MP190";13;"Bihar                                                       ";"Siwan";32;20;"East";"62.5%";"Unexp";1
+191;250;"MP191";13;"Tamil Nadu                                                  ";"Ramanthapuram";32;18;"South";"56.3%";"Exp";1
+192;251;"MP192";13;"Maharashtra                                                 ";"Mumbai-North-East";32;19;"Central";"59.4%";"Exp";1
+193;252;"MP193";13;"Madhya Pradesh                                              ";"Rajgarh";32;26;"Central";"81.3%";"Unexp";1
+194;253;"MP194";13;"Kerala                                                      ";"Kottayam";32;27;"South";"84.4%";"Exp";1
+195;254;"MP195";13;"Jharkhand                                                   ";"Palamu";32;20;"East";"62.5%";"Exp";1
+196;255;"MP196";13;"Karnataka                                                   ";"Mandya";32;3;"South";"9.4%";"Exp";1
+197;256;"MP197";13;"Tamil Nadu                                                  ";"Chidambaram";32;21;"South";"65.6%";"Unexp";1
+198;257;"MP198";13;"Sikkim                                                      ";"Sikkim";32;23;"NE";"71.9%";"Exp";1
+199;258;"MP199";13;"Nagaland                                                    ";"Nagaland";32;3;"NE";"9.4%";"Exp";1
+200;259;"MP200";13;"Maharashtra                                                 ";"Palghar";32;30;"Central";"93.8%";"Exp";1
+201;260;"MP201";13;"Bihar                                                       ";"Buxar";32;32;"East";"100.0%";"Unexp";0
+202;262;"MP202";13;"Tamil Nadu                                                  ";"Kanniyakumari";32;29;"South";"90.6%";"Unexp";1
+203;263;"MP203";13;"Tamil Nadu                                                  ";"Thoothukkudi";32;20;"South";"62.5%";"Unexp";1
+204;264;"MP204";13;"Madhya Pradesh                                              ";"Hoshangabad";32;24;"Central";"75.0%";"Exp";1
+205;265;"MP205";13;"Madhya Pradesh                                              ";"Ujjain";32;22;"Central";"68.8%";"Exp";1
+206;266;"MP206";13;"Maharashtra                                                 ";"Gadchiroli-Chimur";32;29;"Central";"90.6%";"Exp";1
+207;267;"MP207";13;"Maharashtra                                                 ";"Bhiwandi";32;29;"Central";"90.6%";"Unexp";1
+208;268;"MP208";13;"Maharashtra                                                 ";"Latur";32;28;"Central";"87.5%";"Exp";1
+209;269;"MP209";13;"Maharashtra                                                 ";"Ratnagiri-Sindhudurg";32;15;"Central";"46.9%";"Exp";0
+210;270;"MP210";13;"Manipur                                                     ";"Outer Manipur";32;32;"NE";"100.0%";"Exp";0
+211;271;"MP211";13;"Orissa                                                      ";"Nabarangpur";32;9;"East";"28.1%";"Exp";0
+212;272;"MP212";13;"Orissa                                                      ";"Sambalpur";32;28;"East";"87.5%";"Exp";1
+213;273;"MP213";13;"Orissa                                                      ";"Sundargarh";32;25;"East";"78.1%";"Unexp";1
+214;274;"MP214";13;"Orissa                                                      ";"Bargarh";32;29;"East";"90.6%";"Unexp";1
+215;275;"MP215";13;"Mizoram                                                     ";"Mizoram";32;31;"NE";"96.9%";"Exp";1
+216;276;"MP216";13;"Uttar Pradesh                                               ";"Mainpuri";32;28;"North";"87.5%";"Unexp";1
+217;277;"MP217";13;"Karnataka                                                   ";"Hassan";32;7;"South";"21.9%";"Exp";0
+218;278;"MP218";13;"Uttar Pradesh                                               ";"Allahabad";32;31;"North";"96.9%";"Exp";1
+219;279;"MP219";13;"Uttar Pradesh                                               ";"Lalganj";32;31;"North";"96.9%";"Exp";1
+220;280;"MP220";13;"West Bengal                                                 ";"Ghatal";32;29;"East";"90.6%";"Exp";1
+221;281;"MP221";13;"West Bengal                                                 ";"Kolkata Dakshin";32;6;"East";"18.8%";"Exp";0
+222;282;"MP222";13;"West Bengal                                                 ";"Dum Dum";32;30;"East";"93.8%";"Exp";1
+223;283;"MP223";13;"Uttar Pradesh                                               ";"Kaushambi ";32;30;"North";"93.8%";"Exp";1
+224;284;"MP224";13;"Uttar Pradesh                                               ";"Sant Kabir Nagar";32;22;"North";"68.8%";"Exp";1
+225;285;"MP225";13;"Tamil Nadu                                                  ";"Karur";32;31;"South";"96.9%";"Exp";1
+226;286;"MP226";13;"Uttar Pradesh                                               ";"Kannauj";32;6;"North";"18.8%";"Unexp";0
+227;287;"MP227";13;"Uttar Pradesh                                               ";"Misrikh";32;29;"North";"90.6%";"Exp";1
+228;288;"MP228";13;"Uttar Pradesh                                               ";"Sambhal";32;31;"North";"96.9%";"Exp";1
+229;289;"MP229";13;"Tripura                                                     ";"Tripura East";32;27;"NE";"84.4%";"Exp";1
+230;290;"MP230";13;"Tamil Nadu                                                  ";"Salem";32;32;"South";"100.0%";"Unexp";0
+231;291;"MP231";13;"Uttar Pradesh                                               ";"Etah";32;13;"North";"40.6%";"Exp";0
+232;292;"MP232";13;"Uttar Pradesh                                               ";"Kaiserganj";32;29;"North";"90.6%";"Exp";1
+233;293;"MP233";13;"Uttar Pradesh                                               ";"Machhlishahr";32;22;"North";"68.8%";"Exp";1
+234;294;"MP234";13;"Uttar Pradesh                                               ";"Saharanpur";32;29;"North";"90.6%";"Exp";1
+235;295;"MP235";13;"Uttar Pradesh                                               ";"Hamirpur";32;31;"North";"96.9%";"Exp";1
+236;296;"MP236";13;"West Bengal                                                 ";"Bolpur";32;27;"East";"84.4%";"Exp";1
+237;297;"MP237";13;"Tripura                                                     ";"Tripura West";32;21;"NE";"65.6%";"Exp";1
+238;298;"MP238";13;"Tamil Nadu                                                  ";"Mayiladuthurai";32;30;"South";"93.8%";"Unexp";1
+239;299;"MP239";13;"Uttar Pradesh                                               ";"Banda";32;27;"North";"84.4%";"Exp";1
+240;300;"MP240";13;"Uttar Pradesh                                               ";"Mohanlalganj";32;28;"North";"87.5%";"Unexp";1
+241;301;"MP241";13;"Uttar Pradesh                                               ";"Fatehpur Sikri";32;30;"North";"93.8%";"Exp";1
+242;302;"MP242";13;"Uttar Pradesh                                               ";"Kairana";32;31;"North";"96.9%";"Unexp";1
+243;303;"MP243";13;"West Bengal                                                 ";"Medinipur";32;29;"East";"90.6%";"Exp";1
+244;304;"MP244";13;"West Bengal                                                 ";"Asansol";32;12;"East";"37.5%";"Unexp";0
+245;305;"MP245";13;"Tamil Nadu                                                  ";"Tiruvallur";32;30;"South";"93.8%";"Exp";1
+246;306;"MP246";13;"Tamil Nadu                                                  ";"Chennai South";32;25;"South";"78.1%";"Exp";1
+247;307;"MP247";13;"Jharkhand                                                   ";"Singhbhum";32;3;"East";"9.4%";"Exp";1
+248;308;"MP248";13;"West Bengal                                                 ";"Mathurapur";32;7;"East";"21.9%";"Unexp";0
+249;309;"MP249";13;"West Bengal                                                 ";"Basirhat";32;7;"East";"21.9%";"Exp";0
+250;310;"MP250";13;"Uttar Pradesh                                               ";"Chandauli";32;26;"North";"81.3%";"Exp";1
+251;311;"MP251";13;"Uttar Pradesh                                               ";"Fatehpur";32;24;"North";"75.0%";"Unexp";1
+252;312;"MP252";13;"Uttar Pradesh                                               ";"Aligarh";32;32;"North";"100.0%";"Unexp";0
+253;313;"MP253";13;"Uttar Pradesh                                               ";"Sitapur";32;20;"North";"62.5%";"Unexp";1
+254;314;"MP254";13;"Tamil Nadu                                                  ";"Coimbatore";32;31;"South";"96.9%";"Exp";1
+255;315;"MP255";13;"Kerala                                                      ";"Attingal";32;21;"South";"65.6%";"Unexp";1
+256;316;"MP256";13;"West Bengal                                                 ";"Alipurduars";32;24;"East";"75.0%";"Unexp";1
+257;317;"MP257";13;"Tamil Nadu                                                  ";"Viluppuram";32;32;"South";"100.0%";"Exp";0
+258;318;"MP258";13;"West Bengal                                                 ";"Barrackpur";32;28;"East";"87.5%";"Exp";1
+259;319;"MP259";13;"West Bengal                                                 ";"Bangaon";32;29;"East";"90.6%";"Unexp";1
+260;320;"MP260";13;"Uttar Pradesh                                               ";"Etawah";32;28;"North";"87.5%";"Exp";1
+261;321;"MP261";13;"Uttar Pradesh                                               ";"Badaun";32;19;"North";"59.4%";"Exp";1
+262;322;"MP262";13;"Uttar Pradesh                                               ";"Ballia";32;32;"North";"100.0%";"Unexp";0
+263;323;"MP263";13;"Uttar Pradesh                                               ";"Bhadohi ";32;29;"North";"90.6%";"Unexp";1
+264;324;"MP264";13;"Uttar Pradesh                                               ";"Jaunpur";32;23;"North";"71.9%";"Exp";1
+265;325;"MP265";13;"West Bengal                                                 ";"Bishnupur";32;27;"East";"84.4%";"Exp";1
+266;326;"MP266";13;"West Bengal                                                 ";"Bardhaman Purba";32;24;"East";"75.0%";"Exp";1
+267;327;"MP267";13;"West Bengal                                                 ";"Jhargram";32;28;"East";"87.5%";"Exp";1
+268;328;"MP268";13;"Tamil Nadu                                                  ";"Pollachi";32;32;"South";"100.0%";"Exp";0
+269;329;"MP269";13;"West Bengal                                                 ";"Howrah";32;12;"East";"37.5%";"Unexp";0
+270;330;"MP270";13;"West Bengal                                                 ";"Tamluk";32;13;"East";"40.6%";"Exp";0
+271;331;"MP271";13;"Uttar Pradesh                                               ";"Hardoi";32;30;"North";"93.8%";"Exp";1
+272;332;"MP272";13;"Uttar Pradesh                                               ";"Mirzapur";32;19;"North";"59.4%";"Exp";1
+273;333;"MP273";13;"Uttar Pradesh                                               ";"Ambedkar Nagar";32;26;"North";"81.3%";"Exp";1
+274;334;"MP274";13;"Uttar Pradesh                                               ";"Deoria";32;29;"North";"90.6%";"Exp";1
+275;335;"MP275";13;"West Bengal                                                 ";"Bardhaman-Durgapur";32;28;"East";"87.5%";"Exp";1
+276;336;"MP276";13;"West Bengal                                                 ";"Jalpaiguri";32;31;"East";"96.9%";"Unexp";1
+277;337;"MP277";13;"Tamil Nadu                                                  ";"Tiruppur";32;28;"South";"87.5%";"Exp";1
+278;338;"MP278";13;"West Bengal                                                 ";"Birbhum";32;30;"East";"93.8%";"Unexp";1
+279;339;"MP279";13;"West Bengal                                                 ";"Krishnanagar";32;31;"East";"96.9%";"Exp";1
+280;340;"MP280";13;"West Bengal                                                 ";"Ranaghat";32;29;"East";"90.6%";"Exp";1
+281;341;"MP281";13;"Uttar Pradesh                                               ";"Robertsganj";32;29;"North";"90.6%";"Unexp";1
+282;342;"MP282";13;"Uttar Pradesh                                               ";"Jalaun";32;27;"North";"84.4%";"Exp";1
+283;343;"MP283";13;"Uttar Pradesh                                               ";"Bulandshahr";32;27;"North";"84.4%";"Unexp";1
+284;344;"MP284";13;"Uttar Pradesh                                               ";"Basti";32;31;"North";"96.9%";"Unexp";1
+285;345;"MP285";13;"Madhya Pradesh                                              ";"Rewa";32;30;"Central";"93.8%";"Exp";1
+286;346;"MP286";13;"Uttar Pradesh                                               ";"Salempur";32;28;"North";"87.5%";"Exp";1
+287;347;"MP287";13;"Kerala                                                      ";"Alathur";32;28;"South";"87.5%";"Exp";1
+288;348;"MP288";13;"Kerala                                                      ";"Palakkad";32;26;"South";"81.3%";"Exp";1
+289;349;"MP289";13;"Tamil Nadu                                                  ";"Tenkasi";32;31;"South";"96.9%";"Exp";1
+290;350;"MP290";13;"Tamil Nadu                                                  ";"Tiruchirappalli";32;32;"South";"100.0%";"Exp";0
+291;351;"MP291";13;"Maharashtra                                                 ";"Osmanabad";32;23;"Central";"71.9%";"Unexp";1
+292;352;"MP292";13;"West Bengal                                                 ";"Hooghly";32;30;"East";"93.8%";"Exp";1
+293;353;"MP293";13;"West Bengal                                                 ";"Jadavpur";32;6;"East";"18.8%";"Exp";0
+294;354;"MP294";13;"Uttar Pradesh                                               ";"Shahjahanpur";32;27;"North";"84.4%";"Unexp";1
+295;355;"MP295";13;"Uttar Pradesh                                               ";"Nagina";32;32;"North";"100.0%";"Unexp";0
+296;356;"MP296";13;"Uttar Pradesh                                               ";"Ghazipur";32;26;"North";"81.3%";"Exp";1
+297;357;"MP297";13;"Uttar Pradesh                                               ";"Phulpur";32;24;"North";"75.0%";"Unexp";1
+298;358;"MP298";13;"Uttar Pradesh                                               ";"Gautam Buddha Nagar";32;28;"North";"87.5%";"Exp";1
+299;359;"MP299";13;"Uttar Pradesh                                               ";"Muzaffarnagar";32;22;"North";"68.8%";"Exp";1
+300;360;"MP300";13;"Orissa                                                      ";"Jagatsinghpur";32;27;"East";"84.4%";"Exp";1
+301;361;"MP301";13;"West Bengal                                                 ";"Arambagh";32;20;"East";"62.5%";"Exp";1
+302;362;"MP302";13;"West Bengal                                                 ";"Balurghat";32;23;"East";"71.9%";"Exp";1
+303;363;"MP303";13;"Andhra Pradesh                                              ";"Nellore";32;16;"South";"50.0%";"Exp";1
+304;364;"MP304";13;"West Bengal                                                 ";"Joynagar";32;17;"East";"53.1%";"Exp";1
+305;365;"MP305";13;"West Bengal                                                 ";"Bankura";32;28;"East";"87.5%";"Exp";1
+306;366;"MP306";13;"Bihar                                                       ";"Madhepura";32;23;"East";"71.9%";"Exp";1
+307;367;"MP307";13;"Orissa                                                      ";"Bhadrak";32;24;"East";"75.0%";"Exp";1
+308;368;"MP308";13;"Maharashtra                                                 ";"Raigad";32;28;"Central";"87.5%";"Unexp";1
+309;369;"MP309";13;"Bihar                                                       ";"Hajipur";32;31;"East";"96.9%";"Exp";1
+310;370;"MP310";13;"Orissa                                                      ";"Cuttack";32;32;"East";"100.0%";"Exp";0
+311;371;"MP311";13;"Kerala                                                      ";"Kasaragod";32;26;"South";"81.3%";"Exp";1
+312;372;"MP312";13;"Maharashtra                                                 ";"Aurangabad";32;27;"Central";"84.4%";"Exp";1
+313;373;"MP313";13;"Maharashtra                                                 ";"Amravati";32;0;"Central";"0.0%";"Unexp";0
+314;374;"MP314";13;"Bihar                                                       ";"Munger";32;31;"East";"96.9%";"Exp";1
+315;375;"MP315";13;"Andhra Pradesh                                              ";"Mahabubnagar";32;1;"South";"3.1%";"Exp";0
+316;376;"MP316";13;"Punjab                                                      ";"Khadoor Sahib";32;30;"North";"93.8%";"Unexp";1
+317;377;"MP317";13;"Orissa                                                      ";"Bhubaneswar";32;22;"East";"68.8%";"Exp";1
+318;378;"MP318";13;"Maharashtra                                                 ";"Yavatmal-Washim";32;21;"Central";"65.6%";"Exp";1
+319;379;"MP319";13;"Bihar                                                       ";"Khagaria";32;23;"East";"71.9%";"Exp";1
+320;380;"MP320";13;"Bihar                                                       ";"Jhanjharpur";32;27;"East";"84.4%";"Exp";1
+321;381;"MP321";13;"Jharkhand                                                   ";"Chatra";32;31;"East";"96.9%";"Unexp";1
+322;382;"MP322";13;"Uttar Pradesh                                               ";"Rampur";32;21;"North";"65.6%";"Exp";1
+323;383;"MP323";13;"Orissa                                                      ";"Dhenkanal";32;22;"East";"68.8%";"Exp";1
+324;384;"MP324";13;"Maharashtra                                                 ";"Shirur";32;15;"Central";"46.9%";"Exp";0
+325;385;"MP325";13;"Bihar                                                       ";"Pataliputra";32;28;"East";"87.5%";"Exp";1
+326;386;"MP326";13;"Bihar                                                       ";"Muzaffarpur";32;20;"East";"62.5%";"Exp";1
+327;387;"MP327";13;"Bihar                                                       ";"Begusarai";32;29;"East";"90.6%";"Exp";1
+328;388;"MP328";13;"Andhra Pradesh                                              ";"Khammam";32;32;"South";"100.0%";"Exp";0
+329;389;"MP329";13;"Punjab                                                      ";"Bathinda";32;28;"North";"87.5%";"Unexp";1
+330;390;"MP330";13;"Punjab                                                      ";"Faridkot";32;26;"North";"81.3%";"Exp";1
+331;391;"MP331";13;"Orissa                                                      ";"Jajpur";32;25;"East";"78.1%";"Exp";1
+332;392;"MP332";13;"Maharashtra                                                 ";"Kalyan";32;29;"Central";"90.6%";"Exp";1
+333;393;"MP333";13;"Bihar                                                       ";"Jahanabad";32;29;"East";"90.6%";"Exp";1
+334;394;"MP334";13;"Bihar                                                       ";"Aurangabad";32;24;"East";"75.0%";"Exp";1
+335;395;"MP335";13;"Uttarakhand                                                 ";"Tehri Garhwal";32;25;"North";"78.1%";"Exp";1
+336;396;"MP336";13;"West Bengal                                                 ";"Purulia";32;20;"East";"62.5%";"Exp";1
+337;397;"MP337";13;"Andhra Pradesh                                              ";"Adilabad";32;16;"South";"50.0%";"Exp";1
+338;398;"MP338";13;"Andhra Pradesh                                              ";"Medak";32;1;"South";"3.1%";"Exp";0
+339;399;"MP339";13;"Orissa                                                      ";"Puri";32;24;"East";"75.0%";"Exp";1
+340;400;"MP340";13;"Orissa                                                      ";"Kendrapara";32;20;"East";"62.5%";"Exp";1
+341;401;"MP341";13;"Haryana                                                     ";"Hisar";32;15;"North";"46.9%";"Exp";0
+342;402;"MP342";13;"Bihar                                                       ";"Supaul";32;30;"East";"93.8%";"Unexp";1
+343;403;"MP343";13;"Bihar                                                       ";"Valmiki Nagar";32;31;"East";"96.9%";"Exp";1
+344;404;"MP344";13;"Karnataka                                                   ";"Belgaum";32;12;"South";"37.5%";"Exp";0
+345;405;"MP345";13;"Assam                                                       ";"Mangaldoi";32;24;"NE";"75.0%";"Exp";1
+346;406;"MP346";13;"Bihar                                                       ";"Sheohar";32;31;"East";"96.9%";"Exp";1
+347;407;"MP347";13;"West Bengal                                                 ";"Cooch Behar";32;30;"East";"93.8%";"Exp";1
+348;408;"MP348";13;"Andhra Pradesh                                              ";"Machilipatnam";32;17;"South";"53.1%";"Exp";1
+349;409;"MP349";13;"Orissa                                                      ";"Koraput";32;12;"East";"37.5%";"Unexp";0
+350;410;"MP350";13;"Orissa                                                      ";"Kandhamal";32;19;"East";"59.4%";"Exp";1
+351;411;"MP351";13;"Tamil Nadu                                                  ";"Erode";32;15;"South";"46.9%";"Exp";0
+352;412;"MP352";13;"Maharashtra                                                 ";"Buldhana";32;22;"Central";"68.8%";"Unexp";1
+353;413;"MP353";13;"Bihar                                                       ";"Sitamarhi";32;27;"East";"84.4%";"Unexp";1
+354;414;"MP354";13;"Bihar                                                       ";"Ujiarpur";32;28;"East";"87.5%";"Exp";1
+355;415;"MP355";13;"Karnataka                                                   ";"Bangalore Central";32;9;"South";"28.1%";"Exp";0
+356;416;"MP356";13;"Madhya Pradesh                                              ";"Khajuraho";32;30;"Central";"93.8%";"Exp";1
+357;417;"MP357";13;"Bihar                                                       ";"Gaya";32;31;"East";"96.9%";"Exp";1
+358;418;"MP358";13;"Andhra Pradesh                                              ";"Narasaraopet";32;26;"South";"81.3%";"Exp";1
+359;419;"MP359";13;"Andhra Pradesh                                              ";"Chittoor";32;11;"South";"34.4%";"Unexp";0
+360;420;"MP360";13;"Rajasthan                                                   ";"Dausa";32;16;"West";"50.0%";"Exp";1
+361;421;"MP361";13;"Orissa                                                      ";"Aska";32;20;"East";"62.5%";"Exp";1
+362;422;"MP362";13;"Maharashtra                                                 ";"Hingoli";32;20;"Central";"62.5%";"Exp";1
+363;423;"MP363";13;"Bihar                                                       ";"Karakat";32;28;"East";"87.5%";"Exp";1
+364;424;"MP364";13;"Bihar                                                       ";"Gopalganj";32;30;"East";"93.8%";"Exp";1
+365;425;"MP365";13;"Gujarat                                                     ";"Surat";32;31;"West";"96.9%";"Exp";1
+366;426;"MP366";13;"Chhattisgarh                                                ";"Durg";32;28;"Central";"87.5%";"Exp";1
+367;427;"MP367";13;"Orissa                                                      ";"Keonjhar";32;21;"East";"65.6%";"Exp";1
+368;428;"MP368";13;"Orissa                                                      ";"Bolangir";32;25;"East";"78.1%";"Exp";1
+369;429;"MP369";13;"Andhra Pradesh                                              ";"Hindupur";32;22;"South";"68.8%";"Unexp";1
+370;431;"MP370";13;"Maharashtra                                                 ";"Maval";32;29;"Central";"90.6%";"Exp";1
+371;432;"MP371";13;"Maharashtra                                                 ";"Parbhani";32;32;"Central";"100.0%";"Exp";0
+372;433;"MP372";13;"Bihar                                                       ";"Arrah";32;26;"East";"81.3%";"Unexp";1
+373;434;"MP373";13;"Bihar                                                       ";"Jamui";32;27;"East";"84.4%";"Exp";1
+374;435;"MP374";13;"Maharashtra                                                 ";"Shirdi";32;19;"Central";"59.4%";"Unexp";1
+375;436;"MP375";13;"Uttar Pradesh                                               ";"Bansgaon";32;19;"North";"59.4%";"Exp";1
+376;437;"MP376";13;"Uttar Pradesh                                               ";"Agra";32;26;"North";"81.3%";"Unexp";1
+377;438;"MP377";13;"Uttar Pradesh                                               ";"Meerut";32;32;"North";"100.0%";"Exp";0
+378;439;"MP378";13;"Uttar Pradesh                                               ";"Pilibhit";32;10;"North";"31.3%";"Exp";0
+379;440;"MP379";13;"Maharashtra                                                 ";"Hatkanangle";32;21;"Central";"65.6%";"Exp";1
+380;441;"MP380";13;"Orissa                                                      ";"Berhampur";32;14;"East";"43.8%";"Exp";0
+381;442;"MP381";13;"Orissa                                                      ";"Mayurbhanj";32;15;"East";"46.9%";"Exp";0
+382;443;"MP382";13;"Bihar                                                       ";"Banka";32;29;"East";"90.6%";"Exp";1
+383;444;"MP383";13;"Bihar                                                       ";"Nalanda";32;31;"East";"96.9%";"Exp";1
+384;445;"MP384";13;"Bihar                                                       ";"Samastipur";32;29;"East";"90.6%";"Exp";1
+385;446;"MP385";13;"Punjab                                                      ";"Ferozpur";32;22;"North";"68.8%";"Unexp";1
+386;447;"MP386";13;"Assam                                                       ";"Tezpur";32;24;"NE";"75.0%";"Exp";1
+387;448;"MP387";13;"Himachal Pradesh                                            ";"Shimla";32;32;"North";"100.0%";"Exp";0
+388;449;"MP388";13;"Karnataka                                                   ";"Koppal";32;19;"South";"59.4%";"Unexp";1
+389;450;"MP389";13;"Karnataka                                                   ";"Haveri";32;19;"South";"59.4%";"Exp";1
+390;451;"MP390";13;"Himachal Pradesh                                            ";"Kangra";32;30;"North";"93.8%";"Exp";1
+391;452;"MP391";13;"Karnataka                                                   ";"Chikkodi";32;14;"South";"43.8%";"Exp";0
+392;453;"MP392";13;"Karnataka                                                   ";"Raichur";32;10;"South";"31.3%";"Unexp";0
+393;454;"MP393";13;"Uttar Pradesh                                               ";"Varanasi";32;27;"North";"84.4%";"Exp";1
+394;455;"MP394";13;"Uttar Pradesh                                               ";"Ghaziabad";32;20;"North";"62.5%";"Exp";1
+395;456;"MP395";13;"Maharashtra                                                 ";"Beed";32;24;"Central";"75.0%";"Exp";1
+396;457;"MP396";13;"Gujarat                                                     ";"Gandhinagar";32;28;"West";"87.5%";"Unexp";1
+397;460;"MP397";13;"Bihar                                                       ";"Patna Sahib";32;25;"East";"78.1%";"Exp";1
+398;461;"MP398";13;"Bihar                                                       ";"Bhagalpur";32;29;"East";"90.6%";"Unexp";1
+399;462;"MP399";13;"Bihar                                                       ";"Madhubani";32;32;"East";"100.0%";"Unexp";0
+400;463;"MP400";13;"Jharkhand                                                   ";"Hazaribagh";32;32;"East";"100.0%";"Exp";0
+401;464;"MP401";13;"Chhattisgarh                                                ";"Raipur";32;29;"Central";"90.6%";"Unexp";1
+402;465;"MP402";13;"Karnataka                                                   ";"Bangalore South";32;19;"South";"59.4%";"Exp";1
+403;466;"MP403";13;"West Bengal                                                 ";"Darjeeling";32;28;"East";"87.5%";"Exp";1
+404;467;"MP404";13;"Uttar Pradesh                                               ";"Aonla";32;28;"North";"87.5%";"Exp";1
+405;468;"MP405";13;"Assam                                                       ";"Silchar";32;28;"NE";"87.5%";"Unexp";1
+406;470;"MP406";13;"Assam                                                       ";"Gauhati";32;27;"NE";"84.4%";"Unexp";1
+407;471;"MP407";13;"Gujarat                                                     ";"Ahmedabad East";32;28;"West";"87.5%";"Unexp";1
+408;473;"MP408";13;"Madhya Pradesh                                              ";"Bhopal";32;28;"Central";"87.5%";"Exp";1
+409;474;"MP409";13;"Madhya Pradesh                                              ";"Indore";32;30;"Central";"93.8%";"Exp";1
+410;475;"MP410";13;"Uttar Pradesh                                               ";"Gorakhpur";32;20;"North";"62.5%";"Exp";1
+411;476;"MP411";13;"Gujarat                                                     ";"Bhavnagar";32;30;"West";"93.8%";"Exp";1
+412;477;"MP412";13;"Madhya Pradesh                                              ";"Morena";32;8;"Central";"25.0%";"Unexp";0
+413;478;"MP413";13;"Madhya Pradesh                                              ";"Gwalior";32;25;"Central";"78.1%";"Exp";1
+414;479;"MP414";13;"Chhattisgarh                                                ";"Raigarh";32;7;"Central";"21.9%";"Unexp";0
+415;480;"MP415";13;"Bihar                                                       ";"Purvi Champaran ";32;25;"East";"78.1%";"Exp";1
+416;481;"MP416";13;"Goa                                                         ";"North Goa";32;27;"Central";"84.4%";"Exp";1
+417;482;"MP417";13;"Bihar                                                       ";"Katihar";32;30;"East";"93.8%";"Exp";1
+418;483;"MP418";13;"Maharashtra                                                 ";"Ahmednagar";32;26;"Central";"81.3%";"Exp";1
+419;484;"MP419";13;"Karnataka                                                   ";"Uttara Kannada";32;14;"South";"43.8%";"Exp";0
+420;485;"MP420";13;"Uttar Pradesh                                               ";"Azamgarh";32;24;"North";"75.0%";"Exp";1
+421;486;"MP421";13;"Rajasthan                                                   ";"Churu";32;30;"West";"93.8%";"Exp";1
+422;487;"MP422";13;"Gujarat                                                     ";"Bharuch";32;26;"West";"81.3%";"Exp";1
+423;488;"MP423";13;"Karnataka                                                   ";"Tumkur";32;7;"South";"21.9%";"Exp";0
+424;489;"MP424";13;"Karnataka                                                   ";"Bangalore North";32;14;"South";"43.8%";"Exp";0
+425;490;"MP425";13;"Uttar Pradesh                                               ";"Lucknow";32;30;"North";"93.8%";"Exp";1
+426;491;"MP426";13;"Madhya Pradesh                                              ";"Bhind";32;27;"Central";"84.4%";"Unexp";1
+427;492;"MP427";13;"Madhya Pradesh                                              ";"Tikamgarh";32;31;"Central";"96.9%";"Exp";1
+428;493;"MP428";13;"Madhya Pradesh                                              ";"Satna";32;26;"Central";"81.3%";"Unexp";1
+429;494;"MP429";13;"Madhya Pradesh                                              ";"Jabalpur";32;21;"Central";"65.6%";"Exp";1
+430;495;"MP430";13;"Himachal Pradesh                                            ";"Hamirpur";32;27;"North";"84.4%";"Exp";1
+431;496;"MP431";13;"Maharashtra                                                 ";"Jalna";32;20;"Central";"62.5%";"Exp";1
+432;497;"MP432";13;"Assam                                                       ";"Nawgong";32;10;"NE";"31.3%";"Exp";0
+433;498;"MP433";13;"Maharashtra                                                 ";"Chandrapur";32;24;"Central";"75.0%";"Exp";1
+434;499;"MP434";13;"Chhattisgarh                                                ";"Kanker";32;22;"Central";"68.8%";"Unexp";1
+435;500;"MP435";13;"Gujarat                                                     ";"Chhota Udaipur";32;18;"West";"56.3%";"Exp";1
+436;501;"MP436";13;"Karnataka                                                   ";"Bijapur";32;24;"South";"75.0%";"Exp";1
+437;502;"MP437";13;"Jharkhand                                                   ";"Giridih";32;29;"East";"90.6%";"Exp";1
+438;503;"MP438";13;"Bihar                                                       ";"Darbhanga";32;31;"East";"96.9%";"Unexp";1
+439;504;"MP439";13;"Karnataka                                                   ";"Dharwad";32;14;"South";"43.8%";"Exp";0
+440;505;"MP440";13;"Maharashtra                                                 ";"Akola";32;27;"Central";"84.4%";"Exp";1
+441;506;"MP441";13;"Karnataka                                                   ";"Bagalkot";32;17;"South";"53.1%";"Exp";1
+442;507;"MP442";13;"Punjab                                                      ";"Amritsar";32;7;"North";"21.9%";"Exp";0
+443;508;"MP443";13;"Maharashtra                                                 ";"Dindori";32;26;"Central";"81.3%";"Unexp";1
+444;509;"MP444";13;"Maharashtra                                                 ";"Raver";32;26;"Central";"81.3%";"Exp";1
+445;510;"MP445";13;"Karnataka                                                   ";"Davanagere";32;8;"South";"25.0%";"Unexp";0
+446;511;"MP446";13;"Rajasthan                                                   ";"Jhalawar-Baran";32;22;"West";"68.8%";"Unexp";1
+447;512;"MP447";13;"Andaman and Nicobar Islands                                 ";"Andaman and Nicobar Islands";32;30;"South";"93.8%";"Exp";1
+448;513;"MP448";13;"Bihar                                                       ";"Purnia";32;29;"East";"90.6%";"Exp";1
+449;514;"MP449";13;"Madhya Pradesh                                              ";"Sidhi";32;32;"Central";"100.0%";"Exp";0
+450;515;"MP450";13;"Gujarat                                                     ";"Junagadh";32;5;"West";"15.6%";"Exp";0
+451;516;"MP451";13;"Chhattisgarh                                                ";"Mahasamund";32;22;"Central";"68.8%";"Unexp";1
+452;517;"MP452";13;"Madhya Pradesh                                              ";"Sagar";32;12;"Central";"37.5%";"Exp";0
+453;518;"MP453";13;"Jharkhand                                                   ";"Lohardaga";32;31;"East";"96.9%";"Exp";1
+454;519;"MP454";13;"Bihar                                                       ";"Paschim Champaran";32;28;"East";"87.5%";"Exp";1
+455;520;"MP455";13;"Gujarat                                                     ";"Panchmahal";32;32;"West";"100.0%";"Exp";0
+456;521;"MP456";13;"Jharkhand                                                   ";"Dhanbad";32;30;"East";"93.8%";"Exp";1
+457;522;"MP457";13;"Chhattisgarh                                                ";"Bastar";32;12;"Central";"37.5%";"Exp";0
+458;523;"MP458";13;"Jharkhand                                                   ";"Rajmahal";32;18;"East";"56.3%";"Unexp";1
+459;524;"MP459";13;"Bihar                                                       ";"Nawada";32;27;"East";"84.4%";"Unexp";1
+460;525;"MP460";13;"Rajasthan                                                   ";"Jalore";32;23;"West";"71.9%";"Exp";1
+461;526;"MP461";13;"Gujarat                                                     ";"Navsari";32;24;"West";"75.0%";"Exp";1
+462;527;"MP462";13;"Gujarat                                                     ";"Vadodara";32;19;"West";"59.4%";"Exp";1
+463;528;"MP463";13;"Karnataka                                                   ";"Shimoga";32;2;"South";"6.3%";"Exp";1
+464;529;"MP464";13;"Rajasthan                                                   ";"Bikaner";32;32;"West";"100.0%";"Unexp";0
+465;530;"MP465";13;"Maharashtra                                                 ";"Jalgaon";32;26;"Central";"81.3%";"Exp";1
+466;531;"MP466";13;"Madhya Pradesh                                              ";"Damoh";32;25;"Central";"78.1%";"Exp";1
+467;532;"MP467";13;"Maharashtra                                                 ";"Dhule";32;23;"Central";"71.9%";"Exp";1
+468;533;"MP468";13;"Bihar                                                       ";"Araria";32;22;"East";"68.8%";"Exp";1
+469;534;"MP469";13;"Madhya Pradesh                                              ";"Khargone";32;27;"Central";"84.4%";"Unexp";1
+470;535;"MP470";13;"Gujarat                                                     ";"Sabarkantha";32;32;"West";"100.0%";"Exp";0
+471;536;"MP471";13;"Chhattisgarh                                                ";"Rajnandgaon";32;11;"Central";"34.4%";"Exp";0
+472;537;"MP472";13;"Daman and Diu                                               ";"Daman and Diu";32;27;"West";"84.4%";"Unexp";1
+473;538;"MP473";13;"Gujarat                                                     ";"Ahmedabad West";32;30;"West";"93.8%";"Exp";1
+474;539;"MP474";13;"Madhya Pradesh                                              ";"Balaghat";32;16;"Central";"50.0%";"Exp";1
+475;540;"MP475";13;"Karnataka                                                   ";"Chitradurga";32;10;"South";"31.3%";"Unexp";0
+476;541;"MP476";13;"Chhattisgarh                                                ";"Janjgir-Champa ";32;21;"Central";"65.6%";"Exp";1
+477;542;"MP477";13;"Madhya Pradesh                                              ";"Betul";32;26;"Central";"81.3%";"Unexp";1
+478;543;"MP478";13;"Karnataka                                                   ";"Bellary";32;2;"South";"6.3%";"Exp";1
+479;544;"MP479";13;"Gujarat                                                     ";"Mehesana";32;31;"West";"96.9%";"Exp";1
+480;545;"MP480";13;"Jharkhand                                                   ";"Godda";32;30;"East";"93.8%";"Unexp";1
+481;546;"MP481";13;"Dadra and Nagar Haveli                                      ";"Dadra and Nagar Haveli";32;13;"West";"40.6%";"Exp";0
+482;547;"MP482";13;"Gujarat                                                     ";"Amreli";32;30;"West";"93.8%";"Exp";1
+483;548;"MP483";13;"Karnataka                                                   ";"Dakshina Kannada";32;12;"South";"37.5%";"Exp";0
+484;549;"MP484";13;"Chhattisgarh                                                ";"Surguja";32;21;"Central";"65.6%";"Unexp";1
+485;550;"MP485";13;"Gujarat                                                     ";"Kachchh";32;30;"West";"93.8%";"Exp";1
